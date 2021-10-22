@@ -1,5 +1,5 @@
-- 213 error fixed
-- Fix(sql): tinyint
+- V2.2 Bientot
+- Fix Multiples
 - Tempfix(client/main.lua)
 - Moved Notification Event for Inventory Wipe
 - Updated all events to the new RegisterNetEvent and got rid of unneeded handlers
