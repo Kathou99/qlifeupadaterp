@@ -1,4 +1,4 @@
-- V2.2 biento
+- 213 error fixed
 - Fix(sql): tinyint
 - Tempfix(client/main.lua)
 - Moved Notification Event for Inventory Wipe
